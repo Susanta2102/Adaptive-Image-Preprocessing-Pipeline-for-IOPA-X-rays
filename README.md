@@ -29,7 +29,6 @@ After execution, check the `results/` directory for:
 - Evaluation metrics and summary statistics
 - Comprehensive processing results (all saved automatically)
 
-**Note**: The pipeline runs in non-interactive mode by default, automatically saving all visualizations without requiring manual plot window closure.
 
 ### Execution Results Summary
 **Successfully executed on conda environment with Python 3.10:**
