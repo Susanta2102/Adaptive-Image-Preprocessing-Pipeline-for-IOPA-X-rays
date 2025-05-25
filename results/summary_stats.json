@@ -1,0 +1,11 @@
+{
+  "static_avg_psnr": 28.070369577733867,
+  "adaptive_avg_psnr": 28.67613793740461,
+  "static_avg_ssim": 0.6711193988444458,
+  "adaptive_avg_ssim": 0.7796536531243964,
+  "static_avg_edge_preservation": 0.8571095533349536,
+  "adaptive_avg_edge_preservation": 0.8421524106239764,
+  "psnr_improvement": 0.6057683596707442,
+  "ssim_improvement": 0.10853425427995056,
+  "edge_improvement": -0.014957142710977256
+}

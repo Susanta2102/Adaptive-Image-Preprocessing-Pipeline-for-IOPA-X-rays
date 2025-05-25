@@ -1,0 +1,128 @@
+{
+  "IS20250115_171841_9465_61003253": {
+    "brightness": 174.6803116438356,
+    "rms_contrast": 49.15984805943851,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 82.741920481094,
+    "tenengrad": 730.6330114155251,
+    "wavelet_noise_estimate": 1.4825797080993652,
+    "flat_region_noise": 54.84524092033617
+  },
+  "IS20250115_190348_9148_86297118": {
+    "brightness": 130.8419680365297,
+    "rms_contrast": 76.7325392412498,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 116.69788312345442,
+    "tenengrad": 1383.181292237443,
+    "wavelet_noise_estimate": 1.4825797080993652,
+    "flat_region_noise": 90.4165901379326
+  },
+  "IS20250115_191316_7227_10120577": {
+    "brightness": 127.77649086757991,
+    "rms_contrast": 72.30086550835173,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 101.51437962794768,
+    "tenengrad": 1124.7369589041095,
+    "wavelet_noise_estimate": 1.4825797080993652,
+    "flat_region_noise": 88.38523317617378
+  },
+  "IS20250116_180218_7445_56958340": {
+    "brightness": 116.35366552511415,
+    "rms_contrast": 83.57152331144795,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 89.4367351560174,
+    "tenengrad": 1171.7266643835617,
+    "wavelet_noise_estimate": 1.4825797080993652,
+    "flat_region_noise": 92.80317041951328
+  },
+  "IS20250218_193552_3393_78829426": {
+    "brightness": 175.43420433789953,
+    "rms_contrast": 50.17365742340646,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 175.69812036146033,
+    "tenengrad": 1658.8151415525115,
+    "wavelet_noise_estimate": 1.4825797080993652,
+    "flat_region_noise": 85.30723929184606
+  },
+  "IS20250218_193621_8940_10081171": {
+    "brightness": 166.89680251141553,
+    "rms_contrast": 34.428060059440355,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 236.9231397100756,
+    "tenengrad": 3065.777689497717,
+    "wavelet_noise_estimate": 1.4825797080993652,
+    "flat_region_noise": 88.32320718750366
+  },
+  "IS20250221_192657_5718_56712676": {
+    "brightness": 142.19973515981735,
+    "rms_contrast": 43.95241686564785,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 373.5171666776705,
+    "tenengrad": 4381.717235159817,
+    "wavelet_noise_estimate": 2.9651594161987305,
+    "flat_region_noise": 40.98430795919936
+  },
+  "R10": {
+    "brightness": 179.28083726518514,
+    "rms_contrast": 37.45741495025801,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 215.13968031677203,
+    "tenengrad": 402.29261637696663,
+    "wavelet_noise_estimate": 2.9651594161987305,
+    "flat_region_noise": 25.587484819194184
+  },
+  "R4": {
+    "brightness": 166.76760892252645,
+    "rms_contrast": 31.084898271489706,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 116.25623703073256,
+    "tenengrad": 432.2772700962938,
+    "wavelet_noise_estimate": 1.4825797080993652,
+    "flat_region_noise": 25.973299913205594
+  },
+  "R5": {
+    "brightness": 139.6413389270868,
+    "rms_contrast": 42.480967481438555,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 192.42832210571498,
+    "tenengrad": 472.07280357111534,
+    "wavelet_noise_estimate": 2.9651594161987305,
+    "flat_region_noise": 24.549356906082252
+  },
+  "R6": {
+    "brightness": 151.98980934172909,
+    "rms_contrast": 35.3136061339841,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 183.06865016212024,
+    "tenengrad": 412.2361851682949,
+    "wavelet_noise_estimate": 2.9651594161987305,
+    "flat_region_noise": 21.7432602556459
+  },
+  "R7": {
+    "brightness": 150.92034601757493,
+    "rms_contrast": 29.83117506530999,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 337.4750839612365,
+    "tenengrad": 582.6167222826373,
+    "wavelet_noise_estimate": 2.9651594161987305,
+    "flat_region_noise": 36.628724024866024
+  },
+  "R9": {
+    "brightness": 190.0157162620806,
+    "rms_contrast": 45.28297165886832,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 157.6136608216397,
+    "tenengrad": 314.23256537982564,
+    "wavelet_noise_estimate": 2.9651594161987305,
+    "flat_region_noise": 26.864291179581958
+  },
+  "Reference_Output_Quality": {
+    "brightness": 95.9507837028397,
+    "rms_contrast": 66.45914685244858,
+    "michelson_contrast": 1.0,
+    "laplacian_variance": 127.62351165859714,
+    "tenengrad": 2883.4111419763913,
+    "wavelet_noise_estimate": 1.4825797080993652,
+    "flat_region_noise": 17.06926196022475
+  }
+}
